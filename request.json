@@ -1,0 +1,69 @@
+{
+  "demoOneSelectAll": {
+    "id": ""
+  },
+  "demoOneSelectId": {
+    "id": "1"
+  },
+  "demoOneSelectFirst": {
+    "id": ""
+  },
+  "demoOneInsert": {
+    "text": ""
+  },
+  "demoOneUpdate": {
+    "id": "",
+    "text": ""
+  },
+  "demoOneDelete": {
+    "id": ""
+  },
+
+  "initPlanLocation": {
+    "rl_building":  "",
+    "rl_floor":  ""
+  },
+  "getPlace": {
+    "rl_building":  ""
+  },
+  "getListBuilding": {
+  },
+  "getListFloor": {
+    "rl_building":  ""
+  },
+  "getNameBuilding": {
+    "rl_building":  ""
+  },
+  "getNbFloorFree": {
+    "rl_building":  "",
+    "rl_floor":  ""
+  },
+  "getFloorStatu": {
+    "rl_building":  "",
+    "rl_floor":  ""
+  },
+  "setFloorStatu": {
+    "rl_building":  "",
+    "rl_floor":  "",
+    "rl_floor_to_set":""
+  },
+  "getDispoBat": {
+    "rl_building":  "",
+    "rl_nb_loc": ""
+  },
+  "getDispoBatEvo": {
+    "rl_building":  "",
+    "rl_nb_loc_ps": "",
+    "rl_nb_loc_b": "",
+    "rl_nb_loc_sc": "",
+    "rl_nb_loc_so": ""
+  },
+  "setStatuResa": {
+    "rl_building":  "",
+    "rl_resa":""
+  },
+  "insertCompany": {
+    "rl_company_name": "",
+    "rl_resp": ""
+  }
+}
